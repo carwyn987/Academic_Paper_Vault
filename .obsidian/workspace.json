@@ -1,0 +1,184 @@
+{
+  "main": {
+    "id": "21d96dd5ec6dc392",
+    "type": "split",
+    "children": [
+      {
+        "id": "e4626a9af1a28c90",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7aaae9111af72f0a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DayDreamer - World Models for Physical Robot Learning.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "DayDreamer - World Models for Physical Robot Learning"
+            }
+          }
+        ]
+      },
+      {
+        "id": "960ba7919d366a01",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c4fb900d10fd3614",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "1d638ffabdc6d5e9",
+    "type": "split",
+    "children": [
+      {
+        "id": "8f3ce02c88a29362",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fc5af15c53cabe0f",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "8b70f47ca809b01f",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "648547581570744b",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "9d33d74e736ff121",
+    "type": "split",
+    "children": [
+      {
+        "id": "06c6513d66a368bc",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "43bd7ba6164daa79",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "DayDreamer - World Models for Physical Robot Learning.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for DayDreamer - World Models for Physical Robot Learning"
+            }
+          },
+          {
+            "id": "ccc890db81463d5e",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "b0e9f8e5ad1c77fe",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "1612f14ee0dc9f6c",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {},
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "c4fb900d10fd3614",
+  "lastOpenFiles": [
+    "DayDreamer - World Models for Physical Robot Learning.md",
+    "daydreamer.pdf",
+    "Welcome.md"
+  ]
+}
