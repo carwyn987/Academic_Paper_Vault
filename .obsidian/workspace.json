@@ -8,7 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "7aaae9111af72f0a",
+            "id": "effef644b7dc0f03",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -24,11 +24,11 @@
         ]
       },
       {
-        "id": "960ba7919d366a01",
+        "id": "926d3421e002b769",
         "type": "tabs",
         "children": [
           {
-            "id": "c4fb900d10fd3614",
+            "id": "7aaae9111af72f0a",
             "type": "leaf",
             "state": {
               "type": "graph",
@@ -93,7 +93,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 232.5
   },
   "right": {
     "id": "9d33d74e736ff121",
@@ -153,9 +153,11 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {},
+              "state": {
+                "file": "DayDreamer - World Models for Physical Robot Learning.md"
+              },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of DayDreamer - World Models for Physical Robot Learning"
             }
           }
         ],
@@ -163,7 +165,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -175,9 +177,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c4fb900d10fd3614",
+  "active": "effef644b7dc0f03",
   "lastOpenFiles": [
     "DayDreamer - World Models for Physical Robot Learning.md",
+    "Embodied Visuomotor Representation.md",
+    "Full Body Visual Self-Modeling of Robot Morphologies.md",
+    "papers/daydreamer.pdf",
+    "papers",
     "daydreamer.pdf",
     "Welcome.md"
   ]
