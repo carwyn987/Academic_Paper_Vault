@@ -5,6 +5,8 @@ Topics include but are not limited to:
  - Self-Modeling
  - Embodied Representation
  - Decision Making under Uncertainty
+ - POMDPs
+ - Robotics
 
 When opened in Obsidian, the view should look something like:
 

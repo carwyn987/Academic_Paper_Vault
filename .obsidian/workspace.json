@@ -20,24 +20,65 @@
               "icon": "lucide-file",
               "title": "DayDreamer - World Models for Physical Robot Learning"
             }
-          }
-        ]
-      },
-      {
-        "id": "926d3421e002b769",
-        "type": "tabs",
-        "children": [
+          },
           {
-            "id": "7aaae9111af72f0a",
+            "id": "330fb0d911263053",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "Reinforcement Learning via Auxiliary Task Distillation.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Reinforcement Learning via Auxiliary Task Distillation"
+            }
+          },
+          {
+            "id": "ed72c9c997c6b866",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Bayesian Reinforcement Learning - A Survey.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Bayesian Reinforcement Learning - A Survey"
+            }
+          },
+          {
+            "id": "882c4f8932af4c79",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Full Body Visual Self-Modeling of Robot Morphologies.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Full Body Visual Self-Modeling of Robot Morphologies"
+            }
+          },
+          {
+            "id": "a022e588347e0eea",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Reinforcement Learning via Auxiliary Task Distillation.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Reinforcement Learning via Auxiliary Task Distillation"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -154,10 +195,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DayDreamer - World Models for Physical Robot Learning.md"
+                "file": "Full Body Visual Self-Modeling of Robot Morphologies.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of DayDreamer - World Models for Physical Robot Learning"
+              "title": "Outline of Full Body Visual Self-Modeling of Robot Morphologies"
             }
           }
         ],
@@ -177,11 +218,18 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "effef644b7dc0f03",
+  "active": "882c4f8932af4c79",
   "lastOpenFiles": [
-    "DayDreamer - World Models for Physical Robot Learning.md",
     "Embodied Visuomotor Representation.md",
     "Full Body Visual Self-Modeling of Robot Morphologies.md",
+    "Equivariant Reinforcement Learning under Partial Observability.md",
+    "Bayesian Reinforcement Learning - A Survey.md",
+    "Reinforcement Learning via Auxiliary Task Distillation.md",
+    "Point-Based POMDP Solvers - Survey and Comparative Analysis.md",
+    "DayDreamer - World Models for Physical Robot Learning.md",
+    "papers/bayesian_rl.pdf",
+    "README.md",
+    "papers/reinforcement_learning_via_auxiliary_task_distillation.pdf",
     "papers/daydreamer.pdf",
     "papers",
     "daydreamer.pdf",

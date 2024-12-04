@@ -1,3 +1,5 @@
+#Robotics
+
 Notes:
  - Very impressive performance. Indicates significant performance boost of RL + model learning.
  - In external video, robot doesn't really "walk" in a conventional way. However, it does have positive controlled velocity.
