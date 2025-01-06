@@ -65,7 +65,7 @@ The paper achieves end effector tracking via integration of afferent encoder and
 
 ## Reference Images
 
-![[Pasted image 20250105131642.png]]
+![[brain_regions.png]]
 
 
 ## ToDo

@@ -20,8 +20,23 @@
               "icon": "lucide-file",
               "title": "Robotic End Effector Tracking Using Predictive Multisensory Integration"
             }
+          },
+          {
+            "id": "85783c59e9b8f916",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "First-Order Dynamic Modeling andControl of Soft Robots.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "First-Order Dynamic Modeling andControl of Soft Robots"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -138,10 +153,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Robotic End Effector Tracking Using Predictive Multisensory Integration.md"
+                "file": "First-Order Dynamic Modeling andControl of Soft Robots.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Robotic End Effector Tracking Using Predictive Multisensory Integration"
+              "title": "Outline of First-Order Dynamic Modeling andControl of Soft Robots"
             }
           }
         ],
@@ -161,17 +176,27 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "effef644b7dc0f03",
+  "active": "85783c59e9b8f916",
   "lastOpenFiles": [
+    "Full Body Visual Self-Modeling of Robot Morphologies.md",
+    "Equivariant Reinforcement Learning under Partial Observability.md",
+    "Bayesian Reinforcement Learning - A Survey.md",
     "Robotic End Effector Tracking Using Predictive Multisensory Integration.md",
+    "First-Order Dynamic Modeling andControl of Soft Robots.md",
+    "media/constant_curvature_model.png",
+    "media/contant_curvature_model.png",
+    "media/Pasted image 20250105190752.png",
+    "Pasted image 20250105190754.png",
+    "Pasted image 20250105190757.png",
+    "Pasted image 20250105190752.png",
+    "media/brain_regions.png",
+    "media/Pasted image 20250105131642.png",
+    "media",
     "Pasted image 20250105131642.png",
     "DayDreamer - World Models for Physical Robot Learning.md",
     "Reinforcement Learning via Auxiliary Task Distillation.md",
-    "Full Body Visual Self-Modeling of Robot Morphologies.md",
-    "Bayesian Reinforcement Learning - A Survey.md",
     "().md",
     "Embodied Visuomotor Representation.md",
-    "Equivariant Reinforcement Learning under Partial Observability.md",
     "Untitled 1.md",
     "papers/s44182-023-00001-w.pdf",
     "papers/rov_118-first-order-dynamic-model-control-soft-robot.pdf",
